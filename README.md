@@ -40,7 +40,7 @@ Here are some of the technologies I'm proficient in:
 ## **My GitHub Stats** 📈
 
 <p align="center">
-  <a href="https://github.com/[iotwhip]">
+  <a href="https://github.com/iotwhip]">
     <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=dracula" alt="[Your_GitHub_Username]'s GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
